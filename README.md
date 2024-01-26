@@ -9,3 +9,9 @@
 *énfasis* (cursiva)
 
 **énfasis fuerte** (negrita)
+
+
+``` [language]
+Código en 
+varias líneas
+```

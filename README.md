@@ -1,2 +1,7 @@
-## Mi proyecto HTML
-### Primera tarea
+# Mi proyecto HTML
+## Primera tarea
+### Actividad 1 
+### Actividad 2
+## Segunda tarea
+### Actividad 1 
+### Actividad 2

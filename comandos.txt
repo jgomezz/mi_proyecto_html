@@ -1,0 +1,109 @@
+    1  mvn
+    2  docker pull swaggerapi/swagger-editor
+    3  docker exec <container_name> cat /var/jenkins_home/secrets/initialAdminPassword
+    4  docker exec jenkins_name cat /var/jenkins_home/secrets/initialAdminPassword
+    5  docker exec jenkins_home cat /var/jenkins_home/secrets/initialAdminPassword
+    6  docker exec jenkins/jenkins cat /var/jenkins_home/secrets/initialAdminPassword
+    7  docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
+    8  docker exec `docker ps | grep jenkins | awk '{ print $1}' ` cat /var/jenkins_home/secrets/initialAdminPassword
+    9  docker exec `docker ps | grep jenkins | awk '{ print $1}'
+   10  docker exec docker ps | grep jenkins | awk '{ print $1}'
+   11  docker exec docker ps
+   12  exit
+   13  docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk11
+   14  git pull
+   15  git status
+   16  git commit -m "Update"
+   17  git add .
+   18  git commit -m "Update"
+   19  git pull
+   20  docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk11
+   21  git --version
+   22  pwd
+   23  cd repo
+   24  pwd
+   25  cd mi_proyecto_html/
+   26  git init
+   27  notepad README.md
+   28  notepad README.md
+   29  notepad README.md
+   30  dir
+   31  git status
+   32  git add README.md
+   33  git commit -m "first commit"
+   34  git branch -M main
+   35  git remote add origin https://github.com/jgomezz/mi_proyecto_html.git
+   36  git push -u origin main
+   37  git push -u origin main
+   38  git remote --list
+   39  git remote 
+   40  git remote  -v
+   41  git push -u origin main
+   42  notepad README.md
+   43  git add README.md
+   44  git commit -m "Second change"
+   45  git push
+   46  notepad index.html
+   47  git add index.html 
+   48  git commit -m "First html file"
+   49  git push
+   50  dir
+   51  dir /al
+   52  ls -al
+   53  ls
+   54  ls -l
+   55  ls -l
+   56  dir /l
+   57  dir /a
+   58  dir /help
+   59  dir /?
+   60  dir --help
+   61  cd repo
+   62  ls
+   63  cd mi_proyecto_html/
+   64  ls
+   65  ls -al
+   66  ls -l
+   67  ls -l
+   68  code
+   69  code README.md 
+   70  git add README.md 
+   71  git commit -m "Update"
+   72  git push
+   73  git add README.md 
+   74  git commit -m "Update"
+   75  git push
+   76  git add README.md 
+   77  git commit -m "Update"
+   78  git push
+   79  git add README.md 
+   80  git commit -m "Update"
+   81  git push
+   82  git status
+   83  git add .
+   84  git status
+   85  git commit -m "Update"
+   86  git status
+   87  git push
+   88  git add .
+   89  git commit -m "Update"
+   90  git status
+   91  git add .
+   92  git commit -m "Update"
+   93  git status
+   94  git log
+   95  ls -al
+   96  git push
+   97  cd .git
+   98  ls
+   99  ls -al
+  100  mc
+  101  cat config 
+  102  cd ..
+  103  git add 
+  104  git commit
+  105  git push
+  106  history
+  107  history > comandos.txt
+  108* history 
+  109  history > comandos.txt

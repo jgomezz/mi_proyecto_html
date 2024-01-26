@@ -5,3 +5,7 @@
 ## Segunda tarea
 ### Actividad 1 
 ### Actividad 2
+
+*énfasis* (cursiva)
+
+**énfasis fuerte** (negrita)
